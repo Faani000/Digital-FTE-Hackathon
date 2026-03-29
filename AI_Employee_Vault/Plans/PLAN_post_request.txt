@@ -1,0 +1,7 @@
+PLAN FOR TASK
+post_request.txt
+
+Steps:
+1 Analyze request
+2 Prepare response
+3 Send for approval
